@@ -46,4 +46,5 @@
 ---
 
 ### UI
-- <img width="1440" alt="398119378-d1f51c2c-992b-4514-a9ff-68235e47a7f8" src="https://github.com/user-attachments/assets/d0a38c3b-53bf-486a-a984-d0c60fbaa8fb" />
+<img width="1440" alt="409835813-5740fdc8-145a-4f02-81a5-041a1cab4059" src="https://github.com/user-attachments/assets/56a629fa-8fe5-4c92-adeb-26bef9dd42cd" />
+
